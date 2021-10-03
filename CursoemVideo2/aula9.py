@@ -25,8 +25,3 @@
 #Junção:
 #join():  Vai juntar as strings.  Exemplo para ser usado seria colocando em aspas simples:
 #'-'.join.(frase) = resultado saria desta forma: Curso-em-Video-Python.
-
-
-x = y = 10,20
-res = x == y
-print(res)
