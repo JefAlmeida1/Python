@@ -1,5 +1,5 @@
 nome = str(input('Qual é o seu nome?: '))
-if nome == 'Jef':
+if nome == '':
    print('Que nome lindo!')
 else:
     print('Que nome de normal!')

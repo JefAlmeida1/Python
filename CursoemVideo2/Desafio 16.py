@@ -1,4 +1,4 @@
-#Crie um programa que leia um numero REAL qualquer pelo teclado e mostre na tela a sua proção INTEIRA.#
+#Crie um programa que leia um numero REAL qualquer pelo teclado e mostre na tela a sua proção INTEIRA.
 
 import math
 n = float(input('Digite um numero: '))

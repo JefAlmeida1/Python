@@ -1,4 +1,5 @@
-#Um professor quer sortear um dos alunos para apagar a guadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+#Um professor quer sortear um dos alunos para apagar a guadro. Faça um programa que ajude ele,
+# lendo o nome deles e escrevendo o nome do escolhido.
 
 import random
 p = str(input('Digite o nome do primeiro aluno: '))

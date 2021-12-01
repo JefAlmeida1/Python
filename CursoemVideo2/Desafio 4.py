@@ -1,4 +1,5 @@
-#Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ela."""
+#Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
+# e todas as informações possiveis sobre ela."""
 n = input('Digite algo para converter: ')
 print(type(n))
 print(n.isalnum()) #isalnum (self) - Verifica se está em Alfanumérico
